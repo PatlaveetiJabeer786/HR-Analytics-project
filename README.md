@@ -253,7 +253,7 @@ HR-Analytics-project/
 
 ## 🚀 How to Run This Project
 
-1. **Download Power BI Desktop** — free from [microsoft.com/powerbi](https://powerbi.microsoft.com/downloads/)
+1. **Download Power BI Desktop** — free from [microsoft.com/powerbi](https://github.com/PatlaveetiJabeer786/HR-Analytics-project/blob/main/HR-Analytics-Powet%20BI_Project.pbix)
 
 2. **Clone or download** this repository
 
